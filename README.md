@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=WELCOME%20to%20Suviny's%20GitHub&fontAlign=55&fontSize=58&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20Suviny's%20GitHub&fontSize=56&fontAlign=52)
 
 
 
