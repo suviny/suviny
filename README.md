@@ -2,7 +2,7 @@
 
 
 ![Suviny's GitHub stats](https://github-readme-stats.vercel.app/api?username=suviny&show_icons=true&theme=transparent)
-![Suviny's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suviny&layout=compact)
+![Suviny's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)(https://github.com/suviny/github-readme-stats)
 
 
 
