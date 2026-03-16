@@ -1,1 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Suviny's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+![header]((https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=WELCOME%20to%20Suviny's%20GitHub&fontAlign=55&fontSize=58&fontAlignY=40))
+
+
+
+
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
