@@ -24,5 +24,5 @@
 ## 📬 **Contacts**
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tnqls3718@gmail.com)](mailto:tnqls3718@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:lader2020@naver.com)](mailto:lader2020@naver.com)
-[![Instagram Badge](https://img.shields.io/badge/Insta-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/su_6in.847/)](https://www.instagram.com/su_6in.847/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/su_6in.847/)](https://www.instagram.com/su_6in.847/)
 
