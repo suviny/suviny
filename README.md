@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Welcome%20to%20Suviny's%20GitHub&fontSize=50&fontAlign=55&fontAlignY=39)
 
 
-![Suviny's GitHub stats](https://github-readme-stats.vercel.app/api?username=suviny&show_icons=true&theme=transparent)
+![Suviny's GitHub stats](https://github-readme-stats.vercel.app/api?username=suviny&hide=contribs,prs&show_icons=true&theme=transparent)
 ![Suviny's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suviny&layout=donut)
 
 
